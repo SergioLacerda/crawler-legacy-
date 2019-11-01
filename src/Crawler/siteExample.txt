@@ -1,0 +1,1477 @@
+<!doctype html>
+<!--[if !IE]>
+<html class="no-js non-ie" lang="pt-BR"> <![endif]-->
+<!--[if IE 7 ]>
+<html class="no-js ie7" lang="pt-BR"> <![endif]-->
+<!--[if IE 8 ]>
+<html class="no-js ie8" lang="pt-BR"> <![endif]-->
+<!--[if IE 9 ]>
+<html class="no-js ie9" lang="pt-BR"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="pt-BR"> <!--<![endif]-->
+<head>
+<title>
+	Ah Negão!</title>
+<meta content='Joe' name='author' />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<!-- Le fav and touch icons -->
+<link rel="shortcut icon" href="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/icons/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/icons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/icons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/icons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/icons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/icons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/icons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/icons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/icons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/icons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/icons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/icons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/icons/favicon-16x16.png">
+<link rel="manifest" href="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/icons/manifest.json">
+
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+<!-- google analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-4620829-2', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+ <!-- <script id="navegg" type="text/javascript" src="https://tag.navdmp.com/tm44381.js" ></script> -->
+
+	<meta property="og:title" content="O cara que impressionou os jurados com sua performance única"/>
+	<meta property="og:description" content="O melhor blog de humor do mundo desde 2008, quem discorda é clubista.">
+	<meta property="og:type" content="article"/>
+	<meta property="og:url" content="http://www.ahnegao.com.br"/>
+	<meta property="og:site_name" content="Ah Negão!"/>
+	<meta property="og:image" content="http://www.ahnegao.com.br/wp-content/uploads/2015/04/capa.jpg">
+
+<!-- MUST INCLUDE JQUERY AND 'ads.gpt.dfp.js' file in HEAD -->
+<!--script src="//www.mtvnlatservices.com/inhouse/finosf/ads.gpt.dfp.js"></script-->
+<script src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/assets/js/MTV/ads.gpt.dfp.js"></script>
+
+<title>Ah Negão!</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="O blog mais retardado desde o massacre de Windows em 95, com vacas, gente cheirando a danone, nike shox e é claro, BÓSNIA."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://www.ahnegao.com.br/" />
+<link rel="next" href="https://www.ahnegao.com.br/pag/2" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Ah Negão!" />
+<meta property="og:description" content="O melhor blog de humor do mundo." />
+<meta property="og:url" content="https://www.ahnegao.com.br/" />
+<meta property="og:site_name" content="Ah Negão!" />
+<meta property="fb:app_id" content="198180026934034" />
+<meta property="og:image" content="https://www.ahnegao.com.br/wp-content/uploads/2015/04/capa.jpg" />
+<meta property="og:image:secure_url" content="https://www.ahnegao.com.br/wp-content/uploads/2015/04/capa.jpg" />
+<meta property="og:image:width" content="500" />
+<meta property="og:image:height" content="231" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.ahnegao.com.br/#website","url":"https://www.ahnegao.com.br/","name":"Ah Neg\u00e3o!","publisher":{"@id":"https://www.ahnegao.com.br/#/schema/person/"},"potentialAction":{"@type":"SearchAction","target":"https://www.ahnegao.com.br/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://www.ahnegao.com.br/#webpage","url":"https://www.ahnegao.com.br/","inLanguage":"pt-BR","name":"Ah Neg\u00e3o!","isPartOf":{"@id":"https://www.ahnegao.com.br/#website"},"about":{"@id":"https://www.ahnegao.com.br/#/schema/person/"},"description":"O blog mais retardado desde o massacre de Windows em 95, com vacas, gente cheirando a danone, nike shox e \u00e9 claro, B\u00d3SNIA."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.ahnegao.com.br' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Ah Negão! &raquo;" href="https://www.ahnegao.com.br/feed" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Ah Negão! &raquo;" href="https://www.ahnegao.com.br/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ahnegao.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.ahnegao.com.br/wp-includes/css/dist/block-library/style.min.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.ahnegao.com.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-bootstrap-css'  href='https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/inc/css/bootstrap.min.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-icons-css'  href='https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/inc/css/font-awesome.min.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C400%2C600%2C700%7CRoboto+Slab%3A400%2C300%2C700&#038;ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-style-css'  href='https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/style.css?ver=5.1.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ahnegao.com.br/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.ahnegao.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/inc/js/modernizr.min.js?ver=5.2.4'></script>
+<script type='text/javascript' src='https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/inc/js/bootstrap.min.js?ver=5.2.4'></script>
+<script type='text/javascript' src='https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/inc/js/functions.min.js?ver=5.2.4'></script>
+<link rel='https://api.w.org/' href='https://www.ahnegao.com.br/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ahnegao.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ahnegao.com.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.4" />
+<style type="text/css"></style>		<style type="text/css" id="wp-custom-css">
+			/*
+Você pode adicionar seu próprio CSS aqui.
+
+Clique no ícone de ajuda acima para saber mais.
+*/
+
+#primary{
+  height: auto !important;
+}
+
+@media screen and (min-width: 1200px){
+	.banner-top{
+		margin-left: -7px;
+	}
+}
+
+#text-14 {
+    background: none !important;
+}		</style>
+		
+
+	
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '206510406410738', {});
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=206510406410738&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v3.3&appId=198180026934034&autoLogAppEvents=1"></script>
+
+<script>
+fbq('track', 'ViewContent', {
+value: 1,
+currency: 'CPM'
+});
+</script>
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+	
+	<!-- ADDONS SCRIPT -->
+ 
+	
+	
+	<!-- /ADDONS SCRIPT -->
+	
+</head>
+
+<body class="home blog">	
+	
+	
+<!-- START MTV NAV BAR DISPLAY -->
+<div class="container-nav-mtvbr-noconflict"></div>
+<script src="https://mtvbrazil-services.vimn.com/partners/blogs-header/app.js"></script>
+<!-- END MTV NAV BAR DISPLAY -->
+
+<!-- MUST INCLUDE - Initialize page level config -->
+<script>
+  //Ensure namespaces have been defined, without overwriting them.
+  if(typeof MTVN == "undefined") MTVN = {};
+  if(typeof MTVN.config == "undefined") MTVN.config = {};
+  if(typeof MTVN.config.btg == "undefined") MTVN.config.btg = {};
+  if(typeof MTVN.siteParams == "undefined") MTVN.siteParams = {};
+  if(typeof MTVN.config.btg.DoubleClick == "undefined") MTVN.config.btg.DoubleClick = {};
+
+  //Configure auto-firing of ads.
+  MTVN.config.btg.DoubleClick.auto = false;
+  MTVN.config.btg.DoubleClick.onDemand = true;
+  MTVN.config.btg.DoubleClick.disableDeviceManagement = true;
+
+  //Set page level ad unit values
+  var vmn_page_data = {
+      "metadata" : {
+          "property"			: "br_ahnegao.com.br"
+      },
+      "mappings" : {
+          "ad-unit" : {
+              "1"       			: "@property"
+          },
+          "key-values" : { },
+          "exclusion-categories"		: ""
+      },
+      "settings" : {
+          "default_reload_interval"	: -1
+      }
+  };
+</script>
+
+<!-- MUST INCLUDE - Source-in Coda from Aria -->
+<script src="https://btg.mtvnservices.com/aria/coda.html?site=mtv.com.br&amp;Ads_DFP=1&amp;Ads=0&amp;stage=1"></script>
+
+<!-- MUST INCLUDE - Send Page Call -->
+<script type="text/javascript">
+	// SETUP PAGENAME & HIERARCH VALUES
+	var indexVals=["index.php","index.html","index.jhtml"];
+	var prfx = 'blogs/partners/ahnegao.com.br'; //THIS VALUE SHOULD ALWAYS CONTAIN THE 'blogs/partners' PREFIX ALONG WITH THE 'site' PARAM VALUE.
+	var hr = prfx+btg.config._defaultPageName;
+	var pn = '/'+hr;
+
+	//Replace all possible index.* used with 'index'
+	for (var i = 0; i < indexVals.length; ++i) {
+		if (pn.indexOf(indexVals[i]) > -1 )
+		var sRegExInput = new RegExp(indexVals[i], 'ig');
+		pn = pn.replace(sRegExInput ,'index');
+		hr = hr.replace(sRegExInput ,'index');
+	}
+
+	// SEND OMNITURE PAGE CALL FOR TRAFFIC REPORTING
+	btg.Controller.sendPageCall(
+	{
+		pageName: pn,
+		channel: 'blogs',
+		hier1: hr,
+		hier2: hr
+	});
+</script>
+
+<div id="page" class="hfeed site">
+
+		<header id="masthead" class="site-header" role="banner">
+			<!-- START MTV NAV BAR DISPLAY -->
+			<!--<script type="text/javascript" src="http://mtvbrazil-services.vimn.com/partners/header/header.min.js"></script-->
+			<!-- END MTV NAV BAR DISPLAY -->
+		
+			<nav class="navbar navbar-default le-navbar " role="navigation">
+				<a class="le-negao-mobile hiden-md hidden-sm hidden-lg" href="#">
+					<img class="negaozao" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/negaozao-min.png">
+				</a>		
+				<a class="le-logo-ahnegao col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center" title="Ah Negão!" href="https://www.ahnegao.com.br">
+		          <img src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/logo-ahnegao-min.png" />
+		        </a>
+				<div class="container menu-mobile">
+					<div class="row">
+						<div class="site-navigation-inner col-sm-12">
+							<div class="navbar-header">
+								<button id="navbar-ex2-collapse" type="button" class="btn navbar-toggle" data-toggle="collapse" data-target=".navbar-ex2-collapse">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="glyphicon glyphicon-th-large"></span>
+								</button>
+								<button id="navbar-ex1-collapse" type="button" class="btn navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="glyphicon glyphicon-menu-hamburger"></span>
+								</button>
+							</div>
+						</div>
+
+						<div class="navbar-collapse navbar-ex1-collapse collapse" aria-expanded="false">
+							<ul id="menu-top" class="nav navbar-nav">
+								 <li>
+									<a href="https://www.ahnegao.com.br">Home <span class="sr-only">(current)</span></a>
+								</li>
+								<li>
+									<a href="https://www.ahnegao.com.br/anunciar">Anunciar</a>
+								</li>
+								<li>
+									<a href="https://www.ahnegao.com.br/sobre">Sobre</a>
+								</li>
+								<li>
+									<a href="https://www.ahnegao.com.br/contato">Contato</a>
+								</li>
+								<li>
+									<a href="https://www.ahnegao.com.br/enviar-dica">Enviar Dica</a>
+								</li>
+								<li>
+									<a class="endline" target="_blank" href="http://www.leshopping.com.br/?utm_campaign=btnahnegao&utm_source=ahnegao">Le Shopping</a>
+								</li>  
+							</ul>
+						</div>
+
+						<div class="navbar-collapse navbar-ex2-collapse collapse" aria-expanded="false">
+							<ul id="sub-menu-top" class="nav navbar-nav">
+								 <li>
+								 	<a href="https://www.ahnegao.com.br/c/imagens">Imagens <span class="sr-only">(current)</span></a>
+								 </li>
+								 <li>
+								 	<a href="https://www.ahnegao.com.br/c/videos">Vídeos</a>
+								 </li>
+								 <li>
+								 	<a href="https://www.ahnegao.com.br/c/tirinhas">Tirinhas</a>
+								 </li>
+								 <li>
+								 	<a href="https://www.ahnegao.com.br/c/gifs">Gifs</a>
+								 </li>
+								 <li>
+								 	<a href="https://www.ahnegao.com.br/c/links">Links</a>
+								 </li>
+								 <li>
+								 	<a href="https://www.ahnegao.com.br/c/etceteras">Etceteras</a>
+								 </li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</nav><!-- .site-navigation -->
+			<div class="container main-content-area hidden-xs">
+				<div class="social-top container">
+		            <a href="https://twitter.com/AhNegao" target="_blank" title="AhNegão no twitter!" class="btn-social btn-twitter">
+		              <i class="fa fa-twitter"></i>
+		            </a>
+		            <a href="https://www.facebook.com/ahnegao" target="_blank" title="AhNegão no facebook!" class="btn-social btn-facebook">
+		              <i class="fa fa-facebook"></i>
+		            </a>
+		         </div>
+				<!-- Menu -->
+				<div class="collapse navbar-collapse le-navbar-collapse" id="le-navbar">
+					<div class="container-power">
+					  <ul class="nav navbar-nav">
+					    <li><a href="https://www.ahnegao.com.br">Home <span class="sr-only">(current)</span></a></li><li><a href="https://www.ahnegao.com.br/anunciar">Anunciar</a></li><li><a href="https://www.ahnegao.com.br/sobre">Sobre</a></li> <li><a href="https://www.ahnegao.com.br/contato">Contato</a></li><li><a href="https://www.ahnegao.com.br/enviar-dica">Enviar Dica</a></li><li><a href="http://ocioso.com.br" target="_blank">Ocioso</a></li>					  </ul>
+					</div>
+				</div>
+				<div class="collapse navbar-collapse le-navbar-collapse" id="le-navbar-2"></div>
+				<!-- Sub-menu -->
+		      	<div class="collapse navbar-collapse le-navbar-under" id="le-navbar-categorias">
+		        	<div class="container-power">
+		          		<ul class="nav navbar-nav">
+		            		<li class="art"><a href="https://www.ahnegao.com.br/c/imagens">Imagens</a></li>
+  <li class="art"><a href="https://www.ahnegao.com.br/c/videos">Vídeos</a></li>
+  <li class="art"><a href="https://www.ahnegao.com.br/c/tirinhas">Tirinhas</a></li>
+  <li class="art"><a href="https://www.ahnegao.com.br/c/gifs">Gifs</a></li>
+  <li class="art"><a href="https://www.ahnegao.com.br/c/links">Links</a></li>
+  <li class="art etceteras"><a href="https://www.ahnegao.com.br/c/etceteras">Etceteras</a></li>		          		</ul>
+		        	</div>
+		      	</div>
+		      	<div class="collapse navbar-collapse le-navbar-under" id="le-navbar-categorias-2"></div>
+
+		      	<div class="div-negao">
+					<a class="le-negao" href="#">
+						<img class="negaozao" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/negaozao-min.png">
+					</a>
+				</div>
+			</div>
+      	
+		</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+		<a style='display:none' title="Próxima página" id="narw-next" href="https://www.ahnegao.com.br/pag/2" class="narw-arrow narw-next narw-home"><span class="icon fa fa-chevron-right"></span></a>		<div class="top-section">
+								</div>
+
+		<div class="banner-top col-md-12 text-center">
+			
+			
+			
+		<script src="//banner.boostbox.com.br/integrations/script.js?token=38f9471c25cf6bd59bb262c8"></script>
+		<div id="38f9471c25cf6bd59bb262c8" class="container"></div>	
+			
+			
+		</div>
+
+		<div class="container main-content-area" id="main-content-area">
+            			<div class="row side-pull-left">
+				<div class="main-content-inner col-sm-12 col-md-8">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+		<!--div class="le-publicidade"></div-->
+		
+<!--div class="banner-content banner-left-absolute banner-150-600"></div-->
+<article id="post-150811" class="post-150811 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tag-linda-voz">
+	<div class='s4fans-post'><!-- 1 --></div>	<div class="blog-item-wrap">
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+				<div class="le-data">
+					<span class="dia">30</span>
+					<span class="mes">out</span>
+					<span class="ano">2019</span>
+				</div>
+				<div class="le-title">
+					<h2 class="entry-title">
+						<a href="https://www.ahnegao.com.br/2019/10/o-cara-que-impressionou-os-jurados-com-sua-performance-unica.html" rel="bookmark">
+							O cara que impressionou os jurados com sua performance única						</a>
+					</h2>
+				</div>
+				
+			</header><!-- .entry-header -->
+	
+			<div class="entry-content">
+				<div class="in">
+					<p><iframe src="https://www.youtube.com/embed/YJWmQju1Fvs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>Não importa onde você vá, veja ou faça durante a próxima semana&#8230;</p>
+<p>Em algum momento, essa música vai aparecer pra você novamente.</p>
+						<div class="clearfix"></div>
+
+								    	
+			    	<div class="add-content col-lg-12 text-center">			    	<!--div class="add-content col-lg-12 text-center"-->
+					
+							    		
+					<div data-premium="" data-adunit="AH_NEGAO_RETANGULO_2"  data-sizes-desktop="[[300,250],[336,280]]" data-sizes-mobile="[[300,250]]">	
+					
+					</div>
+				    </div>
+				</div>
+		    	
+				<div class="le-social-buttons col-lg-12 margin-top">
+					<ul class="socialite-buttons cf hidden-xs">
+						<li> <!-- Facebook Curtir -->
+							<div class="fb-like" data-href="https://www.ahnegao.com.br/2019/10/o-cara-que-impressionou-os-jurados-com-sua-performance-unica.html" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-													share="false"></div>
+						</li>
+						<li> <!-- Facebook Compartilhar -->
+							<div class="fb-share-button" data-href="https://www.ahnegao.com.br/2019/10/o-cara-que-impressionou-os-jurados-com-sua-performance-unica.html" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Compartilhar</a></div>
+						</li>
+					    
+					    <li class="li-tt"> <!-- Twitter -->
+					    	<a 
+					    	href="https://twitter.com/share" 
+					    	class="twitter-share-button" 
+					    	data-text="O cara que impressionou os jurados com sua performance única" 
+					    	data-url="https://www.ahnegao.com.br/2019/10/o-cara-que-impressionou-os-jurados-com-sua-performance-unica.html"
+							data-size="large";
+					    	data-via="AhNegao">Tweet</a> 
+					    	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+					    </li>
+						<li>
+						<a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.ahnegao.com.br%2F2019%2F10%2Fo-cara-que-impressionou-os-jurados-com-sua-performance-unica.html&media=https://www.ahnegao.com.br/wp-content/uploads/2019/10/4-22.jpg&description=O cara que impressionou os jurados com sua performance única" class="pin-it-button" count-layout="horizontal" data-pin-tall="true">Pin It</a>
+						</li>
+					</ul>
+					
+					<div class="mobile-social-buttons hidden-sm hidden-md hidden-lg">
+						
+						
+						
+						<div class="le-social-buttons" style="border-top: none; margin-top: 0px;">
+							
+							<div class="fb-like" data-href="https://www.ahnegao.com.br/2019/10/o-cara-que-impressionou-os-jurados-com-sua-performance-unica.html" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-													share="false"></div>
+							
+						
+		                  <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.ahnegao.com.br/2019/10/o-cara-que-impressionou-os-jurados-com-sua-performance-unica.html" target="_blank" title="Compartilhe no facebook!" class="btn-social btn-facebook">
+		                    <i class="fa fa-facebook"></i>
+		                  </a>
+		                  <a href="https://twitter.com/home?status=O cara que impressionou os jurados com sua performance única-https://www.ahnegao.com.br/2019/10/o-cara-que-impressionou-os-jurados-com-sua-performance-unica.html" target="_blank" title="Compartilhe no twitter!" class="btn-social btn-twitter">
+		      				<i class="fa fa-twitter"></i>
+		                  </a>
+		                  
+						  <a href="/cdn-cgi/l/email-protection#2e115d5b4c444b4d5a13610e4d4f5c4f0e5f5b4b0e47435e5c4b5d5d474140415b0e415d0e445b5c4f4a415d0e4d41430e5d5b4f0e5e4b5c48415c434f404d4b0eed9440474d4f084c414a5713465a5a5e5d140101595959004f46404b494f41004d4143004c5c011c1e1f17011f1e0141034d4f5c4f035f5b4b0347435e5c4b5d5d474140415b03415d03445b5c4f4a415d034d4143035d5b4f035e4b5c48415c434f404d4b035b40474d4f00465a4342" target="_blank" title="Compartilhe por e-mail!" class="btn-social btn-email">
+						    <i class="fa fa-envelope"></i>
+					      </a>
+					      <a href="whatsapp://send?text=https://www.ahnegao.com.br/2019/10/o-cara-que-impressionou-os-jurados-com-sua-performance-unica.html" target="_blank" title="Compartilhe no whatsapp!" class="btn-social btn-whatsapp">
+							<i class="fa fa-whatsapp"></i>
+						  </a>
+		                </div>
+					</div>
+				</div>
+					
+
+		    	<div class="entry-meta">
+					<!-- tags -->
+			      <div class="tagcloud col-lg-12 col-sm-12">
+			      	<span>TAGS:</span>
+					<a href="https://www.ahnegao.com.br/t/linda-voz">Linda voz</a> 
+			      </div>
+			      <!-- end tags -->
+
+				</div><!-- .entry-meta -->
+
+				<div class="le-bottom-footer">
+					<div class="le-autor">
+												<img src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/autor/negao-8.jpg"/>
+
+												<span>Postado por <b><a href="https://www.ahnegao.com.br/author/joe">Joe</a></b>
+							em <b><a href="https://www.ahnegao.com.br/c/videos">Videos</a></b></span>
+					</div>
+					<div class="le-comments">	
+						<a href="https://www.ahnegao.com.br/2019/10/o-cara-que-impressionou-os-jurados-com-sua-performance-unica.html#comments">
+							<i class="fa fa-comment">
+								
+								<span class="disqus-comment-count" data-disqus-url="https://www.ahnegao.com.br/2019/10/o-cara-que-impressionou-os-jurados-com-sua-performance-unica.html"></span>
+								
+							</i>
+							<span class="hidden-xs">
+								Comentários 
+							</span>
+						</a>
+					</div>
+				</div>
+			</div><!-- .entry-content -->
+
+	
+
+		<div id="comments" class="comments-area">
+				</div>
+
+
+<!--	</div>  -->
+</article><!-- #post-## -->
+<!--div class="banner-content banner-left-absolute banner-150-600"></div-->
+<article id="post-150808" class="post-150808 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tag-raios-e-trovoes">
+	<div class='s4fans-post'><!-- 2 --></div>	<div class="blog-item-wrap">
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+				<div class="le-data">
+					<span class="dia">30</span>
+					<span class="mes">out</span>
+					<span class="ano">2019</span>
+				</div>
+				<div class="le-title">
+					<h2 class="entry-title">
+						<a href="https://www.ahnegao.com.br/2019/10/o-cara-que-invocou-um-raio-sem-querer.html" rel="bookmark">
+							O cara que INVOCOU um raio sem querer						</a>
+					</h2>
+				</div>
+				
+			</header><!-- .entry-header -->
+	
+			<div class="entry-content">
+				<div class="in">
+					<p><iframe src="https://www.youtube.com/embed/BRXhzwMcfa8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Nesse momento a pessoa descobre acidentalmente que na verdade é o DOUTOR VICTOR da vida real&#8230;</p>
+<p>Eu ia dizer THOR, mas né, tá mais parecido com o Tio&#8230;</p>
+						<div class="clearfix"></div>
+
+								    	
+			    	<div class="add-content col-lg-12 text-center">			    	<!--div class="add-content col-lg-12 text-center"-->
+					
+							    		
+					<div data-premium="" data-adunit="AH_NEGAO_RETANGULO_2"  data-sizes-desktop="[[300,250],[336,280]]" data-sizes-mobile="[[300,250]]">	
+					
+					</div>
+				    </div>
+				</div>
+		    	
+				<div class="le-social-buttons col-lg-12 margin-top">
+					<ul class="socialite-buttons cf hidden-xs">
+						<li> <!-- Facebook Curtir -->
+							<div class="fb-like" data-href="https://www.ahnegao.com.br/2019/10/o-cara-que-invocou-um-raio-sem-querer.html" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-													share="false"></div>
+						</li>
+						<li> <!-- Facebook Compartilhar -->
+							<div class="fb-share-button" data-href="https://www.ahnegao.com.br/2019/10/o-cara-que-invocou-um-raio-sem-querer.html" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Compartilhar</a></div>
+						</li>
+					    
+					    <li class="li-tt"> <!-- Twitter -->
+					    	<a 
+					    	href="https://twitter.com/share" 
+					    	class="twitter-share-button" 
+					    	data-text="O cara que INVOCOU um raio sem querer" 
+					    	data-url="https://www.ahnegao.com.br/2019/10/o-cara-que-invocou-um-raio-sem-querer.html"
+							data-size="large";
+					    	data-via="AhNegao">Tweet</a> 
+					    	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+					    </li>
+						<li>
+						<a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.ahnegao.com.br%2F2019%2F10%2Fo-cara-que-invocou-um-raio-sem-querer.html&media=https://www.ahnegao.com.br/wp-content/uploads/2019/10/3-22.jpg&description=O cara que INVOCOU um raio sem querer" class="pin-it-button" count-layout="horizontal" data-pin-tall="true">Pin It</a>
+						</li>
+					</ul>
+					
+					<div class="mobile-social-buttons hidden-sm hidden-md hidden-lg">
+						
+						
+						
+						<div class="le-social-buttons" style="border-top: none; margin-top: 0px;">
+							
+							<div class="fb-like" data-href="https://www.ahnegao.com.br/2019/10/o-cara-que-invocou-um-raio-sem-querer.html" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-													share="false"></div>
+							
+						
+		                  <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.ahnegao.com.br/2019/10/o-cara-que-invocou-um-raio-sem-querer.html" target="_blank" title="Compartilhe no facebook!" class="btn-social btn-facebook">
+		                    <i class="fa fa-facebook"></i>
+		                  </a>
+		                  <a href="https://twitter.com/home?status=O cara que INVOCOU um raio sem querer-https://www.ahnegao.com.br/2019/10/o-cara-que-invocou-um-raio-sem-querer.html" target="_blank" title="Compartilhe no twitter!" class="btn-social btn-twitter">
+		      				<i class="fa fa-twitter"></i>
+		                  </a>
+		                  
+						  <a href="/cdn-cgi/l/email-protection#dee1adabbcb4bbbdaae391febdbfacbffeafabbbfe979088919d918bfeabb3feacbfb7b1feadbbb3feafabbbacbbacf8bcb1baa7e3b6aaaaaeade4f1f1a9a9a9f0bfb6b0bbb9bfb1f0bdb1b3f0bcacf1eceeefe7f1efeef1b1f3bdbfacbff3afabbbf3b7b0a8b1bdb1abf3abb3f3acbfb7b1f3adbbb3f3afabbbacbbacf0b6aab3b2" target="_blank" title="Compartilhe por e-mail!" class="btn-social btn-email">
+						    <i class="fa fa-envelope"></i>
+					      </a>
+					      <a href="whatsapp://send?text=https://www.ahnegao.com.br/2019/10/o-cara-que-invocou-um-raio-sem-querer.html" target="_blank" title="Compartilhe no whatsapp!" class="btn-social btn-whatsapp">
+							<i class="fa fa-whatsapp"></i>
+						  </a>
+		                </div>
+					</div>
+				</div>
+					
+
+		    	<div class="entry-meta">
+					<!-- tags -->
+			      <div class="tagcloud col-lg-12 col-sm-12">
+			      	<span>TAGS:</span>
+					<a href="https://www.ahnegao.com.br/t/raios-e-trovoes">RAIOS E TROVÕES</a> 
+			      </div>
+			      <!-- end tags -->
+
+				</div><!-- .entry-meta -->
+
+				<div class="le-bottom-footer">
+					<div class="le-autor">
+												<img src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/autor/negao-5.jpg"/>
+
+												<span>Postado por <b><a href="https://www.ahnegao.com.br/author/joe">Joe</a></b>
+							em <b><a href="https://www.ahnegao.com.br/c/videos">Videos</a></b></span>
+					</div>
+					<div class="le-comments">	
+						<a href="https://www.ahnegao.com.br/2019/10/o-cara-que-invocou-um-raio-sem-querer.html#comments">
+							<i class="fa fa-comment">
+								
+								<span class="disqus-comment-count" data-disqus-url="https://www.ahnegao.com.br/2019/10/o-cara-que-invocou-um-raio-sem-querer.html"></span>
+								
+							</i>
+							<span class="hidden-xs">
+								Comentários 
+							</span>
+						</a>
+					</div>
+				</div>
+			</div><!-- .entry-content -->
+
+	
+
+		<div id="comments" class="comments-area">
+				</div>
+
+
+<!--	</div>  -->
+</article><!-- #post-## -->
+<!--div class="banner-content banner-left-absolute banner-150-600"></div-->
+<article id="post-150840" class="post-150840 post type-post status-publish format-standard hentry category-imagens tag-imagina-o-eco">
+	<div class='s4fans-post'><!-- 3 --></div>	<div class="blog-item-wrap">
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+				<div class="le-data">
+					<span class="dia">30</span>
+					<span class="mes">out</span>
+					<span class="ano">2019</span>
+				</div>
+				<div class="le-title">
+					<h2 class="entry-title">
+						<a href="https://www.ahnegao.com.br/2019/10/a-pessoa-que-executou-o-peido-mais-alto-da-historia.html" rel="bookmark">
+							A pessoa que EXECUTOU o peido mais alto da história						</a>
+					</h2>
+				</div>
+				
+			</header><!-- .entry-header -->
+	
+			<div class="entry-content">
+				<div class="in">
+					<p><img class="aligncenter size-full wp-image-150833" src="https://www.ahnegao.com.br/wp-content/uploads/2019/10/peido-1.jpg" alt="" width="540" height="1032" srcset="https://www.ahnegao.com.br/wp-content/uploads/2019/10/peido-1.jpg 540w, https://www.ahnegao.com.br/wp-content/uploads/2019/10/peido-1-157x300.jpg 157w, https://www.ahnegao.com.br/wp-content/uploads/2019/10/peido-1-536x1024.jpg 536w" sizes="(max-width: 540px) 100vw, 540px" /></p>
+<p>SERIA ESTE MEU SONHO?</p>
+<p>A primeira coisa que fiz quando comprei minha casa foi parar bem no meio e soltar um KUMEHUMEHASGA pra aproveitar o eco. Imagina um galpão gigantesco&#8230;</p>
+<p>Se você tem um galpão de 2 mil m² nos fundos da sua casa, faça esse teste por mim.</p>
+						<div class="clearfix"></div>
+
+								    	
+			    	<div class="add-content col-lg-12 text-center">			    	<!--div class="add-content col-lg-12 text-center"-->
+					
+							    		
+					<div data-premium="" data-adunit="AH_NEGAO_RETANGULO_2"  data-sizes-desktop="[[300,250],[336,280]]" data-sizes-mobile="[[300,250]]">	
+					
+					</div>
+				    </div>
+				</div>
+		    	
+				<div class="le-social-buttons col-lg-12 margin-top">
+					<ul class="socialite-buttons cf hidden-xs">
+						<li> <!-- Facebook Curtir -->
+							<div class="fb-like" data-href="https://www.ahnegao.com.br/2019/10/a-pessoa-que-executou-o-peido-mais-alto-da-historia.html" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-													share="false"></div>
+						</li>
+						<li> <!-- Facebook Compartilhar -->
+							<div class="fb-share-button" data-href="https://www.ahnegao.com.br/2019/10/a-pessoa-que-executou-o-peido-mais-alto-da-historia.html" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Compartilhar</a></div>
+						</li>
+					    
+					    <li class="li-tt"> <!-- Twitter -->
+					    	<a 
+					    	href="https://twitter.com/share" 
+					    	class="twitter-share-button" 
+					    	data-text="A pessoa que EXECUTOU o peido mais alto da história" 
+					    	data-url="https://www.ahnegao.com.br/2019/10/a-pessoa-que-executou-o-peido-mais-alto-da-historia.html"
+							data-size="large";
+					    	data-via="AhNegao">Tweet</a> 
+					    	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+					    </li>
+						<li>
+						<a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.ahnegao.com.br%2F2019%2F10%2Fa-pessoa-que-executou-o-peido-mais-alto-da-historia.html&media=&description=A pessoa que EXECUTOU o peido mais alto da história" class="pin-it-button" count-layout="horizontal" data-pin-tall="true">Pin It</a>
+						</li>
+					</ul>
+					
+					<div class="mobile-social-buttons hidden-sm hidden-md hidden-lg">
+						
+						
+						
+						<div class="le-social-buttons" style="border-top: none; margin-top: 0px;">
+							
+							<div class="fb-like" data-href="https://www.ahnegao.com.br/2019/10/a-pessoa-que-executou-o-peido-mais-alto-da-historia.html" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-													share="false"></div>
+							
+						
+		                  <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.ahnegao.com.br/2019/10/a-pessoa-que-executou-o-peido-mais-alto-da-historia.html" target="_blank" title="Compartilhe no facebook!" class="btn-social btn-facebook">
+		                    <i class="fa fa-facebook"></i>
+		                  </a>
+		                  <a href="https://twitter.com/home?status=A pessoa que EXECUTOU o peido mais alto da história-https://www.ahnegao.com.br/2019/10/a-pessoa-que-executou-o-peido-mais-alto-da-historia.html" target="_blank" title="Compartilhe no twitter!" class="btn-social btn-twitter">
+		      				<i class="fa fa-twitter"></i>
+		                  </a>
+		                  
+						  <a href="/cdn-cgi/l/email-protection#7a45090f18101f190e473b5a0a1f0909151b5a0b0f1f5a3f223f392f2e352f5a155a0a1f131e155a171b13095a1b160e155a1e1b5a1213090eb9c908131b5c18151e0347120e0e0a094055550d0d0d541b12141f1d1b155419151754180855484a4b43554b4a551b570a1f0909151b570b0f1f571f021f190f0e150f5715570a1f131e1557171b1309571b160e15571e1b571213090e1508131b54120e1716" target="_blank" title="Compartilhe por e-mail!" class="btn-social btn-email">
+						    <i class="fa fa-envelope"></i>
+					      </a>
+					      <a href="whatsapp://send?text=https://www.ahnegao.com.br/2019/10/a-pessoa-que-executou-o-peido-mais-alto-da-historia.html" target="_blank" title="Compartilhe no whatsapp!" class="btn-social btn-whatsapp">
+							<i class="fa fa-whatsapp"></i>
+						  </a>
+		                </div>
+					</div>
+				</div>
+					
+
+		    	<div class="entry-meta">
+					<!-- tags -->
+			      <div class="tagcloud col-lg-12 col-sm-12">
+			      	<span>TAGS:</span>
+					<a href="https://www.ahnegao.com.br/t/imagina-o-eco">Imagina o eco</a> 
+			      </div>
+			      <!-- end tags -->
+
+				</div><!-- .entry-meta -->
+
+				<div class="le-bottom-footer">
+					<div class="le-autor">
+												<img src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/autor/negao-1.jpg"/>
+
+												<span>Postado por <b><a href="https://www.ahnegao.com.br/author/joe">Joe</a></b>
+							em <b><a href="https://www.ahnegao.com.br/c/imagens">Imagens</a></b></span>
+					</div>
+					<div class="le-comments">	
+						<a href="https://www.ahnegao.com.br/2019/10/a-pessoa-que-executou-o-peido-mais-alto-da-historia.html#comments">
+							<i class="fa fa-comment">
+								
+								<span class="disqus-comment-count" data-disqus-url="https://www.ahnegao.com.br/2019/10/a-pessoa-que-executou-o-peido-mais-alto-da-historia.html"></span>
+								
+							</i>
+							<span class="hidden-xs">
+								Comentários 
+							</span>
+						</a>
+					</div>
+				</div>
+			</div><!-- .entry-content -->
+
+	
+
+		<div id="comments" class="comments-area">
+				</div>
+
+
+<!--	</div>  -->
+</article><!-- #post-## -->
+<!--div class="banner-content banner-left-absolute banner-150-600"></div-->
+<article id="post-150820" class="post-150820 post type-post status-publish format-standard has-post-thumbnail hentry category-gifs tag-olhinhos-que-observam">
+	<div class='s4fans-post'><!-- 4 --></div>	<div class="blog-item-wrap">
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+				<div class="le-data">
+					<span class="dia">30</span>
+					<span class="mes">out</span>
+					<span class="ano">2019</span>
+				</div>
+				<div class="le-title">
+					<h2 class="entry-title">
+						<a href="https://www.ahnegao.com.br/2019/10/o-cara-que-aproveitou-a-oportunidade-pra-ser-malandro.html" rel="bookmark">
+							O cara que aproveitou a oportunidade pra ser malandro						</a>
+					</h2>
+				</div>
+				
+			</header><!-- .entry-header -->
+	
+			<div class="entry-content">
+				<div class="in">
+					<p><iframe src="https://gfycat.com/ifr/InnocentQueasyAmurstarfish" width="640" height="1182" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></p>
+<p>AHIEUHAEUIHAIUHAIUEA A CARA DO MALUCO</p>
+<p>Devolve devagarinho, finge que nada aconteceu, e apenas saia, antes que o bicho pegue.</p>
+						<div class="clearfix"></div>
+
+								    	
+			    	<div class="add-content col-lg-12 text-center">			    	<!--div class="add-content col-lg-12 text-center"-->
+					
+							    		
+					<div data-premium="" data-adunit="AH_NEGAO_RETANGULO_2"  data-sizes-desktop="[[300,250],[336,280]]" data-sizes-mobile="[[300,250]]">	
+					
+					</div>
+				    </div>
+				</div>
+		    	
+				<div class="le-social-buttons col-lg-12 margin-top">
+					<ul class="socialite-buttons cf hidden-xs">
+						<li> <!-- Facebook Curtir -->
+							<div class="fb-like" data-href="https://www.ahnegao.com.br/2019/10/o-cara-que-aproveitou-a-oportunidade-pra-ser-malandro.html" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-													share="false"></div>
+						</li>
+						<li> <!-- Facebook Compartilhar -->
+							<div class="fb-share-button" data-href="https://www.ahnegao.com.br/2019/10/o-cara-que-aproveitou-a-oportunidade-pra-ser-malandro.html" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Compartilhar</a></div>
+						</li>
+					    
+					    <li class="li-tt"> <!-- Twitter -->
+					    	<a 
+					    	href="https://twitter.com/share" 
+					    	class="twitter-share-button" 
+					    	data-text="O cara que aproveitou a oportunidade pra ser malandro" 
+					    	data-url="https://www.ahnegao.com.br/2019/10/o-cara-que-aproveitou-a-oportunidade-pra-ser-malandro.html"
+							data-size="large";
+					    	data-via="AhNegao">Tweet</a> 
+					    	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+					    </li>
+						<li>
+						<a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.ahnegao.com.br%2F2019%2F10%2Fo-cara-que-aproveitou-a-oportunidade-pra-ser-malandro.html&media=https://www.ahnegao.com.br/wp-content/uploads/2019/10/7-17.jpg&description=O cara que aproveitou a oportunidade pra ser malandro" class="pin-it-button" count-layout="horizontal" data-pin-tall="true">Pin It</a>
+						</li>
+					</ul>
+					
+					<div class="mobile-social-buttons hidden-sm hidden-md hidden-lg">
+						
+						
+						
+						<div class="le-social-buttons" style="border-top: none; margin-top: 0px;">
+							
+							<div class="fb-like" data-href="https://www.ahnegao.com.br/2019/10/o-cara-que-aproveitou-a-oportunidade-pra-ser-malandro.html" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-													share="false"></div>
+							
+						
+		                  <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.ahnegao.com.br/2019/10/o-cara-que-aproveitou-a-oportunidade-pra-ser-malandro.html" target="_blank" title="Compartilhe no facebook!" class="btn-social btn-facebook">
+		                    <i class="fa fa-facebook"></i>
+		                  </a>
+		                  <a href="https://twitter.com/home?status=O cara que aproveitou a oportunidade pra ser malandro-https://www.ahnegao.com.br/2019/10/o-cara-que-aproveitou-a-oportunidade-pra-ser-malandro.html" target="_blank" title="Compartilhe no twitter!" class="btn-social btn-twitter">
+		      				<i class="fa fa-twitter"></i>
+		                  </a>
+		                  
+						  <a href="/cdn-cgi/l/email-protection#7a45090f18101f190e47355a191b081b5a0b0f1f5a1b0a08150c1f130e150f5a1b5a150a15080e0f14131e1b1e1f5a0a081b5a091f085a171b161b141e08155c18151e0347120e0e0a094055550d0d0d541b12141f1d1b155419151754180855484a4b43554b4a551557191b081b570b0f1f571b0a08150c1f130e150f571b57150a15080e0f14131e1b1e1f570a081b57091f0857171b161b141e081554120e1716" target="_blank" title="Compartilhe por e-mail!" class="btn-social btn-email">
+						    <i class="fa fa-envelope"></i>
+					      </a>
+					      <a href="whatsapp://send?text=https://www.ahnegao.com.br/2019/10/o-cara-que-aproveitou-a-oportunidade-pra-ser-malandro.html" target="_blank" title="Compartilhe no whatsapp!" class="btn-social btn-whatsapp">
+							<i class="fa fa-whatsapp"></i>
+						  </a>
+		                </div>
+					</div>
+				</div>
+					
+
+		    	<div class="entry-meta">
+					<!-- tags -->
+			      <div class="tagcloud col-lg-12 col-sm-12">
+			      	<span>TAGS:</span>
+					<a href="https://www.ahnegao.com.br/t/olhinhos-que-observam">Olhinhos que observam</a> 
+			      </div>
+			      <!-- end tags -->
+
+				</div><!-- .entry-meta -->
+
+				<div class="le-bottom-footer">
+					<div class="le-autor">
+												<img src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/autor/negao-2.jpg"/>
+
+												<span>Postado por <b><a href="https://www.ahnegao.com.br/author/joe">Joe</a></b>
+							em <b><a href="https://www.ahnegao.com.br/c/gifs">Gifs</a></b></span>
+					</div>
+					<div class="le-comments">	
+						<a href="https://www.ahnegao.com.br/2019/10/o-cara-que-aproveitou-a-oportunidade-pra-ser-malandro.html#comments">
+							<i class="fa fa-comment">
+								
+								<span class="disqus-comment-count" data-disqus-url="https://www.ahnegao.com.br/2019/10/o-cara-que-aproveitou-a-oportunidade-pra-ser-malandro.html"></span>
+								
+							</i>
+							<span class="hidden-xs">
+								Comentários 
+							</span>
+						</a>
+					</div>
+				</div>
+			</div><!-- .entry-content -->
+
+	
+
+		<div id="comments" class="comments-area">
+				</div>
+
+
+<!--	</div>  -->
+</article><!-- #post-## -->
+<!--div class="banner-content banner-left-absolute banner-150-600"></div-->
+<article id="post-150814" class="post-150814 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tag-volta-aqui-me-ame">
+	<div class='s4fans-post'><!-- 5 --></div>	<div class="blog-item-wrap">
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
+				<div class="le-data">
+					<span class="dia">30</span>
+					<span class="mes">out</span>
+					<span class="ano">2019</span>
+				</div>
+				<div class="le-title">
+					<h2 class="entry-title">
+						<a href="https://www.ahnegao.com.br/2019/10/como-viver-como-uma-tartaruga-stalker-em-casa.html" rel="bookmark">
+							Como viver como uma tartaruga stalker em casa						</a>
+					</h2>
+				</div>
+				
+			</header><!-- .entry-header -->
+	
+			<div class="entry-content">
+				<div class="in">
+					<p><iframe src="https://www.youtube.com/embed/V7gMhgInftI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Genésia, a tartaruga com medo de abandono&#8230;</p>
+<p>Deve ser porque ela viveu mais que os últimos 3 donos e tá traumatizada&#8230;</p>
+						<div class="clearfix"></div>
+
+								    	
+			    	<div class="add-content col-lg-12 text-center">			    	<!--div class="add-content col-lg-12 text-center"-->
+					
+							    		
+					<div data-premium="" data-adunit="AH_NEGAO_RETANGULO_2"  data-sizes-desktop="[[300,250],[336,280]]" data-sizes-mobile="[[300,250]]">	
+					
+					</div>
+				    </div>
+				</div>
+		    	
+				<div class="le-social-buttons col-lg-12 margin-top">
+					<ul class="socialite-buttons cf hidden-xs">
+						<li> <!-- Facebook Curtir -->
+							<div class="fb-like" data-href="https://www.ahnegao.com.br/2019/10/como-viver-como-uma-tartaruga-stalker-em-casa.html" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-													share="false"></div>
+						</li>
+						<li> <!-- Facebook Compartilhar -->
+							<div class="fb-share-button" data-href="https://www.ahnegao.com.br/2019/10/como-viver-como-uma-tartaruga-stalker-em-casa.html" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Compartilhar</a></div>
+						</li>
+					    
+					    <li class="li-tt"> <!-- Twitter -->
+					    	<a 
+					    	href="https://twitter.com/share" 
+					    	class="twitter-share-button" 
+					    	data-text="Como viver como uma tartaruga stalker em casa" 
+					    	data-url="https://www.ahnegao.com.br/2019/10/como-viver-como-uma-tartaruga-stalker-em-casa.html"
+							data-size="large";
+					    	data-via="AhNegao">Tweet</a> 
+					    	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+					    </li>
+						<li>
+						<a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.ahnegao.com.br%2F2019%2F10%2Fcomo-viver-como-uma-tartaruga-stalker-em-casa.html&media=https://www.ahnegao.com.br/wp-content/uploads/2019/10/5-21.jpg&description=Como viver como uma tartaruga stalker em casa" class="pin-it-button" count-layout="horizontal" data-pin-tall="true">Pin It</a>
+						</li>
+					</ul>
+					
+					<div class="mobile-social-buttons hidden-sm hidden-md hidden-lg">
+						
+						
+						
+						<div class="le-social-buttons" style="border-top: none; margin-top: 0px;">
+							
+							<div class="fb-like" data-href="https://www.ahnegao.com.br/2019/10/como-viver-como-uma-tartaruga-stalker-em-casa.html" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-													share="false"></div>
+							
+						
+		                  <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.ahnegao.com.br/2019/10/como-viver-como-uma-tartaruga-stalker-em-casa.html" target="_blank" title="Compartilhe no facebook!" class="btn-social btn-facebook">
+		                    <i class="fa fa-facebook"></i>
+		                  </a>
+		                  <a href="https://twitter.com/home?status=Como viver como uma tartaruga stalker em casa-https://www.ahnegao.com.br/2019/10/como-viver-como-uma-tartaruga-stalker-em-casa.html" target="_blank" title="Compartilhe no twitter!" class="btn-social btn-twitter">
+		      				<i class="fa fa-twitter"></i>
+		                  </a>
+		                  
+						  <a href="/cdn-cgi/l/email-protection#5f602c2a3d353a3c2b621c3032307f2936293a2d7f3c3032307f2a323e7f2b3e2d2b3e2d2a383e7f2c2b3e33343a2d7f3a327f3c3e2c3e793d303b2662372b2b2f2c657070282828713e37313a383e30713c3032713d2d706d6f6e66706e6f703c303230722936293a2d723c303230722a323e722b3e2d2b3e2d2a383e722c2b3e33343a2d723a32723c3e2c3e71372b3233" target="_blank" title="Compartilhe por e-mail!" class="btn-social btn-email">
+						    <i class="fa fa-envelope"></i>
+					      </a>
+					      <a href="whatsapp://send?text=https://www.ahnegao.com.br/2019/10/como-viver-como-uma-tartaruga-stalker-em-casa.html" target="_blank" title="Compartilhe no whatsapp!" class="btn-social btn-whatsapp">
+							<i class="fa fa-whatsapp"></i>
+						  </a>
+		                </div>
+					</div>
+				</div>
+					
+
+		    	<div class="entry-meta">
+					<!-- tags -->
+			      <div class="tagcloud col-lg-12 col-sm-12">
+			      	<span>TAGS:</span>
+					<a href="https://www.ahnegao.com.br/t/volta-aqui-me-ame">VOLTA AQUI ME AME</a> 
+			      </div>
+			      <!-- end tags -->
+
+				</div><!-- .entry-meta -->
+
+				<div class="le-bottom-footer">
+					<div class="le-autor">
+												<img src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/autor/negao-5.jpg"/>
+
+												<span>Postado por <b><a href="https://www.ahnegao.com.br/author/joe">Joe</a></b>
+							em <b><a href="https://www.ahnegao.com.br/c/videos">Videos</a></b></span>
+					</div>
+					<div class="le-comments">	
+						<a href="https://www.ahnegao.com.br/2019/10/como-viver-como-uma-tartaruga-stalker-em-casa.html#comments">
+							<i class="fa fa-comment">
+								
+								<span class="disqus-comment-count" data-disqus-url="https://www.ahnegao.com.br/2019/10/como-viver-como-uma-tartaruga-stalker-em-casa.html"></span>
+								
+							</i>
+							<span class="hidden-xs">
+								Comentários 
+							</span>
+						</a>
+					</div>
+				</div>
+			</div><!-- .entry-content -->
+
+	
+
+		<div id="comments" class="comments-area">
+				</div>
+
+
+<!--	</div>  -->
+</article><!-- #post-## -->
+				          <span class="vai-filhao">Vai filhão!</span>
+	          <div id='wp_page_numbers'>
+<ul><li class="active_page"><a href="https://www.ahnegao.com.br/">1</a></li>
+<li><a href="https://www.ahnegao.com.br/pag/2">2</a></li>
+<li><a href="https://www.ahnegao.com.br/pag/3">3</a></li>
+<li><a href="https://www.ahnegao.com.br/pag/4">4</a></li>
+<li><a href="https://www.ahnegao.com.br/pag/5">5</a></li>
+<li><a href="https://www.ahnegao.com.br/pag/6">6</a></li>
+<li class="space">...</li>
+<li class="first_last_page"><a href="https://www.ahnegao.com.br/pag/5689">5689</a></li>
+<li><a href="https://www.ahnegao.com.br/pag/2">&gt;</a></li>
+</ul>
+<div style='float: none; clear: both;'></div>
+</div>
+	        	        
+	        
+		<div class="le-publicidade">
+			<div id="mtv-bottom-ad" style="margin-top: 8px;"></div>
+			<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+			<script type="text/javascript">
+				if(window.innerWidth >= 769)
+				{
+				var x = document.getElementById('mtv-bottom-ad');
+				x.innerHTML = '<div id="adUnit_banner_728x90_928650272" class="mtvn-ad mtvn-ad-desktop" data-ad-sizes="728x90" data-ad-keyvalues="site_region=brazil"></div>';
+				}
+				else {
+				var y = document.getElementById('mtv-bottom-ad');
+				y.innerHTML = '<div id="adUnit_banner_320x50" class="mtvn-ad mtvn-ad-mobile" data-ad-sizes="320x50" data-ad-keyvalues="site_region=brazil"></div>';
+				}
+			</script>
+		</div>
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+</div>
+	<div id="secondary" class="widget-area col-sm-12 col-md-4 hidden-xs hidden-sm" role="complementary">
+		<aside class="widget widget_text le-search">
+			
+<form role="search" method="get" class="form-search" action="https://www.ahnegao.com.br/">
+  <div class="input-group">
+  	<label class="screen-reader-text" for="s">Search for:</label>
+    <input type="text" class="form-control search-query" placeholder="Procurar&hellip;" value="" name="s" title="Search for:" />
+    <span class="input-group-btn">
+      <button type="submit" class="btn btn-default" name="submit" id="searchsubmit" value="Search"><span class="glyphicon glyphicon-search"></span></button>
+    </span>
+  </div>
+</form>		</aside>
+		
+		<aside id="text-22">
+			<div class="nostyle">
+				<div id="adUnit_banner_300x250_928650272" class="mtvn-ad mtvn-ad-desktop mtvn-ad-tablet mtvn-ad-mobile" data-ad-sizes="300x250" data-ad-keyvalues="site_region=brazil"></div>
+			</div>
+		</aside>
+		
+		<aside id="text-16">
+			<a href="https://www.e-consulters.com.br/" title="Hospedado por E-Consulters" target="_blank">
+			<img src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/econsu.jpg" /></a>
+		</aside>
+		<aside id="text-22">
+			<script src="//banner.boostbox.com.br/integrations/script.js?token=2b26239bab0ce42451cc57ef"></script><div id="2b26239bab0ce42451cc57ef"></div>			</aside>
+		<aside id="parceiros-sidebar">
+			<div class="nostyle">
+	<ul>
+		<li>
+		  <a href="https://promocaorelampagopassagens.com/" title="passagens aéreas promocionais" target="_blank">
+		    <img alt="passagens aéreas promocionais" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/passagens.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://jogosfriv2.com.br/" title="Jogos Friv" target="_blank">
+		    <img alt="Jogos Friv" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/friv2.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="https://ultracinefilmes.com/" title="Filmes Online" target="_blank">
+		    <img alt="Filmes Online" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/filmesonline.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="https://jogosnainternet.com.br/friv/" title="Jogos Online Friv" target="_blank">
+		    <img alt="Friv 2" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/friv-2.jpg">
+		  </a>
+		</li>
+		<li>
+		  <a href="https://www.frasesparainsta.com.br/" title="Frases para Insta" target="_blank">
+		    <img alt="Frases para Insta" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/frasesinsta.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="https://www.mensagensdebomdia.com.br/" title="Site Mensagens de Bom Dia" target="_blank">
+		    <img alt="Mensagens de Bom Dia" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/bomdia.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="https://www.humordido.net/" title="Humordido" target="_blank">
+		    <img alt="Humordido" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/humordido.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="https://www.naointendo.com.br/" title="Não Intendo" target="_blank" >
+		    <img alt="Não Intendo" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/naointendo.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://leninja.com.br/" title="Le Ninja" target="_blank" >
+		    <img alt="Le Ninja" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/leninja.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://www.humordaterra.com/" title="Humor da Terra" target="_blank">
+		    <img alt="Humor da Terra" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/humordaterra.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://www.naomesmo.com.br/" title="Não Mesmo" target="_blank">
+		    <img alt="Não Mesmo" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/naomesmo.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://obutecodanet.ig.com.br" title="O Buteco da Net" target="_blank">
+		    <img alt="O Buteco da Net" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/buteco.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://www.semdeboche.com.br" title="Sem Deboche" target="_blank">
+		    <img alt="Sem Deboche" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/semdeboche.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://www.insoonia.com/" title="Insoonia" target="_blank">
+		    <img alt="Insoonia" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/insoonia.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://trollando.com/" title="Trollando" target="_blank">
+		    <img alt="Trollando" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/trollando.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://www.geraligado.com.br" title="GeraLigado" target="_blank">
+		    <img alt="GeraLigado" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/geraligado.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://www.omachoalpha.com.br/" title="O Macho Alpha" target="_blank">
+		    <img alt="O Macho Alpha" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/omachoalpha.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://www.calangodocerrado.net/" title="Calango do Cerrado" target="_blank">
+		    <img alt="Calango do Cerrado" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/calango.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://www.baratonta.com/" title="Baratonta" target="_blank">
+		    <img alt="Baratonta" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/baratonta.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://vidadesuporte.com.br/" title="Vida de Suporte" target="_blank">
+		    <img alt="Vida de Suporte" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/vidadesuporte-1.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://oversodoinverso.com" title="O Verso do Inverso" target="_blank">
+		    <img alt="O Verso do Inverso" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/verso.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://proibidoler.com/" title="Proibido Ler" target="_blank">
+		    <img alt="Proibido Ler" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/proibidoler-1.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://www.osprofanos.com/" title="Os Profanos" target="_blank">
+		    <img alt="Os Profanos" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/osprofanos.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://www.testosterona.blog.br/" title="Testosterona" target="_blank">
+		    <img alt="Testosterona" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/testosterona.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://tenso.blog.br/" title="Tenso" target="_blank">
+		    <img alt="Tenso" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/tenso.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://www.humordointerior.com.br/" title="Humor do Interior" target="_blank">
+		    <img alt="Humor do Interior" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/humordointerior.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://www.satirinhas.com/" title="Satirinhas" target="_blank">
+		    <img alt="Satirinhas" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/satirinhas.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://www.blogdocaipira.com/" title="Blog do Caipira" target="_blank">
+		    <img alt="Blog do Caipira" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/caipira.png">
+		  </a>
+			</li>
+			
+		<li>
+		  <a href="https://www.entaotane.net/" title="Então Tá Né" target="_blank">
+		    <img alt="Então Tá Né" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/entaotane.png">
+		  </a>
+		</li>
+		<li>
+		  <a href="http://ocioso.com.br/" title="Ocioso" target="_blank" >
+		    <img alt="Ocioso" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/parceiros/ocioso.png">
+		  </a>
+		</li>
+	</ul>
+</div>			
+		</aside>
+		
+		<aside id="text-14">
+	
+			<div data-premium="" data-adunit="AH_NEGAO_RETANGULO_4"  data-sizes-desktop="[[300,600]]" ></div>	
+			
+			
+		</aside>
+	
+	</div><!-- #secondary -->    </div><!-- close .row -->
+  </div><!-- close .container -->
+</div><!-- close .site-content -->
+
+  <div id="footer-area">
+    <div class="container footer-inner">
+      <div class="row">
+        
+	      </div>
+    </div>
+
+    <footer id="colophon" class="site-footer" role="contentinfo">
+      <div class="site-info container">
+        <div class="row">
+          <div>
+            <div class="le-top">
+              <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="le-logo">
+                  <img class="img-responsive le-logo-negao" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/logo-ahnegao-min.png">
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="le-social-buttons">
+                  <a href="https://www.facebook.com/ahnegao" target="_blank" title="Ah Negão no facebook!" class="btn-social btn-facebook">
+                    <i class="fa fa-facebook"></i>
+                  </a>
+                  <a href="https://twitter.com/AhNegao" target="_blank" title="Ah Negão no twitter!" class="btn-social btn-twitter">
+                    <i class="fa fa-twitter"></i>
+                  </a>
+                  <a href="https://instagram.com/ahnegao" target="_blank" title="Ah Negão no Instagram!" class="btn-social btn-instagram">
+                    <i class="fa fa-instagram"></i>
+                  </a>
+                  <a href="https://www.ahnegao.com.br/feed" target="_blank" title="Inscreva-se no nosso feed!" class="btn-social btn-feed">
+                    <i class="fa fa-rss"></i>
+                  </a>
+					
+                </div>
+              </div>
+
+              <div class="col-md-3"></div>
+
+              <div class="col-md-3 visible-md visible-lg">
+                <a class="le-negao" href="#">
+                  <img class="le-sombra" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/sombra-negaozao.png">
+                  <img class="le-negaozao" src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/negaozao-min.png">
+                </a>
+              </div>
+
+            </div>
+          </div>
+        </div>
+        <div class="row">
+
+          <div>
+            <div class="le-middle">
+              <div class="col-md-9 hidden-xs">
+                <div class="le-sobre">
+                  <span>Sobre</span>
+                  <p>
+                    Este é um blog de humor, portanto nada aqui deve ser levado a sério. Os comentários contidos aqui são de responsabilidade de seu criador, e não refletem de forma alguma, a opinião do autor do site.... E eu tenho uma vaca chamada Jairo.  <a class="bold" href="https://www.ahnegao.com.br/politica-de-privacidade">Política de privacidade.</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="row">
+
+          <div>
+            <div class="le-bottom">
+              <div class="col-md-9">
+                <!-- Sub-menu -->
+                <div class="collapse navbar-collapse le-navbar-under" id="le-navbar-categorias">
+                  <div class="container-power">
+                      <ul class="nav navbar-nav nav-bottom">
+                        <li><a href="https://www.ahnegao.com.br">Home <span class="sr-only">(current)</span></a></li><li><a href="https://www.ahnegao.com.br/anunciar">Anunciar</a></li><li><a href="https://www.ahnegao.com.br/sobre">Sobre</a></li> <li><a href="https://www.ahnegao.com.br/contato">Contato</a></li><li><a href="https://www.ahnegao.com.br/enviar-dica">Enviar Dica</a></li><li><a href="http://ocioso.com.br" target="_blank">Ocioso</a></li>                      </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="row">
+            <div class="le-bottom-under">
+              <!--div class="col-md-9"-->
+              <div class="col-md-12 text-center">
+                <div class="devs4 col-xs-6 col-xs-offset-3">
+                  <a href="http://www.s4fans.com.br/" target="_blank">
+                    <span>Desenvolvido por</span>
+                    <img src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/content/logo-s4f.png">
+                  </a>
+					</br></br>Leitores online no blog:</br><script id="_wau832">var _wau = _wau || []; _wau.push(["dynamic", "4lhbffafoi", "832", "410449ffffff", "small"]);</script><script async src="//waust.at/d.js"></script>
+                </div>
+              </div>
+            </div>
+        </div>
+      </div><!-- .site-info -->
+
+      <div class="scroll-to-top"><i class="fa fa-angle-up"></i></div><!-- .scroll-to-top -->
+    </footer><!-- #colophon -->
+  </div>
+</div><!-- #page -->
+
+<!--?php wp_head(); ?-->
+<link href="https://fonts.googleapis.com/css?family=Carter+One" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
+  <script type="text/javascript">
+    jQuery( document ).ready( function( $ ){
+      if ( $( window ).width() >= 767 ){
+        $( '.navbar-nav > li.menu-item > a' ).click( function(){
+            if( $( this ).attr('target') !== '_blank' ){
+                window.location = $( this ).attr( 'href' );
+            }else{
+                var win = window.open($( this ).attr( 'href' ), '_blank');
+                win.focus();
+            }
+        });
+      }
+    });
+  </script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.ahnegao.com.br\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ahnegao.com.br/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6Lc1E4YUAAAAABR8aTsvpb5V_k0sRHr2sc2ozD1E&#038;ver=3.0'></script>
+<script type='text/javascript' src='https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/inc/js/skip-link-focus-fix.js?ver=20140222'></script>
+<script type='text/javascript' src='https://www.ahnegao.com.br/wp-includes/js/wp-embed.min.js?ver=5.2.4'></script>
+<script type="text/javascript">
+( function( grecaptcha, sitekey, actions ) {
+
+	var wpcf7recaptcha = {
+
+		execute: function( action ) {
+			grecaptcha.execute(
+				sitekey,
+				{ action: action }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		},
+
+		executeOnHomepage: function() {
+			wpcf7recaptcha.execute( actions[ 'homepage' ] );
+		},
+
+		executeOnContactform: function() {
+			wpcf7recaptcha.execute( actions[ 'contactform' ] );
+		},
+
+	};
+
+	grecaptcha.ready(
+		wpcf7recaptcha.executeOnHomepage
+	);
+
+	document.addEventListener( 'change',
+		wpcf7recaptcha.executeOnContactform, false
+	);
+
+	document.addEventListener( 'wpcf7submit',
+		wpcf7recaptcha.executeOnHomepage, false
+	);
+
+} )(
+	grecaptcha,
+	'6Lc1E4YUAAAAABR8aTsvpb5V_k0sRHr2sc2ozD1E',
+	{"homepage":"homepage","contactform":"contactform"}
+);
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<script src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/assets/js/jquery-3.1.1.min.js"></script>
+<script src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/assets/js/sidebar-floating.js"></script>
+<script src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/assets/js/menu.js"></script>
+
+
+<script type="text/javascript" async="async" src="https://tags.premiumads.com.br/dfp/16ae7c7e-cf76-4cdc-af67-d0c7b9bd194f"></script>
+
+<script id="dsq-count-scr" src="//ahnegao-1.disqus.com/count.js" async></script>
+
+<script type="text/javascript">
+(function() {
+    window.PinIt = window.PinIt || { loaded:false };
+    if (window.PinIt.loaded) return;
+    window.PinIt.loaded = true;
+    function async_load(){
+        var s = document.createElement("script");
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://assets.pinterest.com/js/pinit.js";
+        var x = document.getElementsByTagName("script")[0];
+        x.parentNode.insertBefore(s, x);
+    }
+    if (window.attachEvent)
+        window.attachEvent("onload", async_load);
+    else
+        window.addEventListener("load", async_load, false);
+})();
+</script>
+
+</body>
+</html><script src="https://www.ahnegao.com.br/wp-content/themes/s4f_ahnegao_2.0/assets/js/key-navigations-index.js"></script>
