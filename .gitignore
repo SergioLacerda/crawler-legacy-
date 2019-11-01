@@ -1,5 +1,6 @@
 .compiled/
 .vscode/
 node_modules/
+src/Output/
 coverage/
 yarn.lock

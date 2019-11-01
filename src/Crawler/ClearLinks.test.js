@@ -8,7 +8,7 @@ const clearedLines = ['https://www.youtube.com/embed/YJWmQju1Fvs',
                       'https://www.youtube.com/embed/BRXhzwMcfa8', 
                       'https://www.youtube.com/embed/V7gMhgInftI']
 
-test.only('Clear youtube links', async () => {
+test('Clear youtube links', async () => {
 
     const result = clear(rawLines, 'youtube')
 
@@ -17,4 +17,15 @@ test.only('Clear youtube links', async () => {
     expect(result).toHaveLength(3)
 
     expect(expect.arrayContaining(result)).toEqual(clearedLines)
+})
+
+test('get specific links', async () => {
+
+    const result = clear(rawLines, ['YJWmQju1Fvs', 'BRXhzwMcfa8'])
+
+    expect(result).not.toBe(undefined)
+
+    expect(result).toHaveLength(2)
+
+    expect(expect.arrayContaining(result)).toEqual(['https://www.youtube.com/embed/YJWmQju1Fvs', 'https://www.youtube.com/embed/BRXhzwMcfa8'])
 })

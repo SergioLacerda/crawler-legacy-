@@ -9,3 +9,12 @@ yarn install
 ```
 yarn run test
 ```
+
+# Run
+```
+yarn run start
+```
+# Help
+```
+yarn run start --help
+```

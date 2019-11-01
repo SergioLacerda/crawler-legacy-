@@ -1,13 +1,13 @@
 import { getExternalSite } from './ExternalRequest.js'
 
 const crawler = async (url, tag) => {
-     let rawSite = await getExternalSite(url)
+   const rawSite = await getExternalSite(url)
 
-     if(tag){
-      rawSite = rawSite.filter(line => foundTag(line , tag) )
-     }
+   if(tag){
+   return rawSite.filter(line => foundTag(line , tag) )
+   }
 
-     return rawSite
+   return rawSite
 }
 
 const foundTag = (line , tags) => {

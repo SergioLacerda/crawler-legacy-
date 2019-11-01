@@ -1,4 +1,6 @@
-const clear = (rawLines , tags) => {
+const clear = (rawLines , inputTags) => {
+   const tags = inputTags instanceof Array ? inputTags : [inputTags]
+
     const result = []
 
     for (const rawLine of rawLines) {
@@ -11,12 +13,8 @@ const clear = (rawLines , tags) => {
  }
 
  const iterateThroughTags = (line, tags, result) => {
-   if(tags instanceof Array){
-      for (const tag of tags) {
-         result.push(getContent(line, tag))
-       }
-   }else{
-      result.push(getContent(line, tags))
+   for (const tag of tags) {
+      result.push(...getContent(line, tag))
    }
 }
 

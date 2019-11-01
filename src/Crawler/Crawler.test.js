@@ -1,6 +1,6 @@
 import { getExternalSite } from './ExternalRequest.js'
 import { crawler } from './Crawler.js'
-import fs from 'fs';
+import { readFile } from '../FileUtils/File.js';
 
 jest.mock('./ExternalRequest.js');
 
@@ -48,7 +48,8 @@ test('Validate total of lines filtered by an array of tags', async () => {
 })
 
 test('Validate real stuff', async () => {
-    const filehandle = fs.readFileSync('./src/Crawler/siteExample.txt', 'utf8')
+    const filehandle = readFile('./src/Crawler/Test/siteExample.txt')
+
     getExternalSite.mockResolvedValue(filehandle.split('\n'))
 
     const result = await crawler('http://www.ahnegao.com.br', ['<title>'])
