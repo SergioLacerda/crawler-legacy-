@@ -4,7 +4,7 @@ const clear = (rawLines , inputTags) => {
     const result = []
 
     for (const rawLine of rawLines) {
-       const line = rawLine.replace(/(\r\n\t|\n|\r|\t)/gm, "")
+       const line = removeSpecialChars(rawLine)
 
        iterateThroughTags(line, tags, result)
     }
@@ -23,4 +23,8 @@ const getContent = (line, tag) => {
               .filter(x => x.includes(tag))
 }
  
-export { clear }
+const removeSpecialChars = (lineTarget) => {
+   return lineTarget.replace(/(\r\n\t|\n|\r|\t)/gm, "")
+}
+
+export { clear, removeSpecialChars }

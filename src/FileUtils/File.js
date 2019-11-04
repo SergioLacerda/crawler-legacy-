@@ -12,4 +12,17 @@ const saveFile = (filename, fileContent) => {
     fs.writeFileSync(path.join('src', 'Output', customFileName), fileContent.join('\n'))
 }
 
-export { readFile, saveFile }
+const totalFilesInFolder = (folderPath) => {
+    if(!folderPath){
+        folderPath = path.resolve(__dirname, '../Output')
+    }
+
+    const result = fs.readdirSync(folderPath)
+
+    return result ? result.length : 1
+}
+
+const getNewFileName = (folderPath ) => {
+    return `source${totalFilesInFolder(folderPath) + 1}`
+}
+export { readFile, saveFile, getNewFileName }

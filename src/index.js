@@ -1,5 +1,6 @@
 import { crawler } from './Crawler/Crawler.js'
 import { clear } from './Crawler/ClearLinks'
+import { readMultipleSouces } from './Crawler/MultipleSouces'
 import { saveFile } from './FileUtils/File.js'
 import yargs from 'yargs'
 
@@ -9,6 +10,12 @@ const argv = yargs
         description: 'any url. Example: https://site.com',
         type: 'string',
     })
+    
+    .option('multipleSources', {
+        description: 'inform path of file with sources. Example: ./src/Crawler/manySources.txt',
+        type: 'array',
+    })
+
     .option('tags', {
         description: 'inform one or an array of tags to filter. Example: youtube vimeo',
         type: 'array',
@@ -23,8 +30,19 @@ const argv = yargs
 
 const start = async () => {
 
-    const { url, tags, fileName} = argv
+    const { url, tags, fileName, multipleSources} = argv
 
+    if(multipleSources){
+        console.error("STARTED: via multipleSources");
+
+        const rawSources = readFile(multipleSources).split('\n')
+
+        readMultipleSouces(rawSources)
+
+        console.error("finish index");
+        process.exit(0);
+    }
+    
     if (!url) {
         console.error("URL is required!");
         process.exit(1);
