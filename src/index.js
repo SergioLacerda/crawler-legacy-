@@ -1,7 +1,7 @@
 import { crawler } from './Crawler/Crawler.js'
 import { clear } from './Crawler/ClearLinks'
-import { readMultipleSouces } from './Crawler/MultipleSouces'
-import { saveFile } from './FileUtils/File.js'
+import { readMultipleSouces } from './Crawler/MultipleSources'
+import { readFile, saveFile } from './FileUtils/File.js'
 import yargs from 'yargs'
 
 const argv = yargs
@@ -30,16 +30,16 @@ const argv = yargs
 
 const start = async () => {
 
-    const { url, tags, fileName, multipleSources} = argv
+    const { url, tags = '.mp4', fileName, multipleSources='C:\\dev_project\\crawler\\src\\Output\\source.txt'} = argv
 
     if(multipleSources){
-        console.error("STARTED: via multipleSources");
+        console.log("STARTED: via multipleSources");
 
-        const rawSources = readFile(multipleSources).split('\n')
+        const rawSources = await readFile(multipleSources).split('\n')
 
-        readMultipleSouces(rawSources)
+        await readMultipleSouces(rawSources, tags)
 
-        console.error("finish index");
+        console.log("finish index");
         process.exit(0);
     }
     

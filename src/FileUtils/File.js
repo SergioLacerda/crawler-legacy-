@@ -22,7 +22,7 @@ const totalFilesInFolder = (folderPath) => {
     return result ? result.length : 1
 }
 
-const getNewFileName = (folderPath ) => {
-    return `source${totalFilesInFolder(folderPath) + 1}`
+const getNewFileName = (folderPath = path.resolve(__dirname, '../Output') ) => {
+    return `source_${ totalFilesInFolder(folderPath)}`
 }
 export { readFile, saveFile, getNewFileName }

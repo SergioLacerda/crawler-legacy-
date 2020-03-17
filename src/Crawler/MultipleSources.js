@@ -1,17 +1,14 @@
-import { readFile, saveFile, getNewFileName } from '../FileUtils/File.js';
+import { saveFile, getNewFileName } from '../FileUtils/File.js';
 import { crawler } from './Crawler.js'
 import { clear, removeSpecialChars } from './ClearLinks.js'
 
 const readMultipleSouces = (rawSources, tags) => {
     const promises = createPromises(rawSources, tags)
 
-    Promise.all(promises).then(source => { 
-        const result = []
-        for(const s of source){
-            result.push(...s)
+    return Promise.all(promises).then(sources => { 
+        for(const target of sources){
+            saveFile(getNewFileName(), clear(target, tags))
         }
-
-        saveFile(`source${getNewFileName()}`, clear(result, tags))
     })
 }
 

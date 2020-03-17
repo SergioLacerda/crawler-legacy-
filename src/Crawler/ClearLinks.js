@@ -6,16 +6,20 @@ const clear = (rawLines , inputTags) => {
     for (const rawLine of rawLines) {
        const line = removeSpecialChars(rawLine)
 
-       iterateThroughTags(line, tags, result)
+       result.push(...iterateThroughTags(line, tags))
     }
 
     return result
  }
 
- const iterateThroughTags = (line, tags, result) => {
+ const iterateThroughTags = (line, tags) => {
+   const result = []
+
    for (const tag of tags) {
       result.push(...getContent(line, tag))
    }
+
+   return result
 }
 
 const getContent = (line, tag) => {
