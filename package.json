@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node ./src/index.js",
+    "grabLinks": "babel-node ./src/GrabLinks.js",
+    "download": "babel-node ./src/DownloadFiles.js",
     "compile": "babel src --out-dir .compiled --source-maps --watch",
     "test": "jest --coverage"
   },
