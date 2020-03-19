@@ -1,5 +1,5 @@
 # crawler
-Crawling websites links based on tags
+Grab website content with search based on tags
 
 # setup
 ```
@@ -10,11 +10,11 @@ yarn install
 yarn run test
 ```
 
-# Run
+# Run Grab feature
 ```
-yarn run start
+yarn run grabLinks --help
 ```
-# Help
+# Run download feature
 ```
-yarn run start --help
+yarn run download --help
 ```

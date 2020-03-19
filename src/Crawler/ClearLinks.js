@@ -29,6 +29,7 @@ const getContent = (line, tag) => {
  
 const removeSpecialChars = (lineTarget) => {
    return lineTarget.replace(/(\r\n\t|\n|\r|\t)/gm, "")
+                    .replace(/\\\//g, "/")
 }
 
 export { clear, removeSpecialChars }
