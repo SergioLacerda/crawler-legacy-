@@ -48,7 +48,7 @@ test('Validate total of lines filtered by an array of tags', async () => {
 })
 
 test('Validate real stuff', async () => {
-    const filehandle = readFile('./src/Crawler/Test/siteExample.txt')
+    const filehandle = readFile('./src/Crawler/Example/siteExample.txt')
 
     getExternalSite.mockResolvedValue(filehandle.split('\n'))
 

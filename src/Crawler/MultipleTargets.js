@@ -1,13 +1,16 @@
-import { saveFile, getNewFileName } from '../FileUtils/File.js';
+import { saveFile, totalFilesInFolder } from '../FileUtils/File.js';
 import { crawler } from './Crawler.js'
 import { clear, removeSpecialChars } from './ClearLinks.js'
 
-const readMultipleSouces = (rawSources, tags) => {
+const readMultipleTargets = (inputFilePath, rawSources, tags) => {
     const promises = createPromises(rawSources, tags)
 
-    return Promise.all(promises).then(sources => { 
-        for(const target of sources){
-            saveFile(getNewFileName(), clear(target, tags))
+    return Promise.all(promises).then(rawTarget => { 
+        let count = totalFilesInFolder()
+
+        for(const target of rawTarget){
+            count++
+            saveFile(inputFilePath, count, clear(target, tags))
         }
     })
 }
@@ -23,4 +26,4 @@ const createPromises = (sources, tags) => {
     return promises
 }
 
-export { readMultipleSouces }
+export { readMultipleTargets }

@@ -1,28 +1,32 @@
-import fs from 'fs';
+import fs from 'fs'
 import path from 'path'
 
-const readFile = (filename) => {
-    return fs.readFileSync(filename, 'utf8')
+const readFile = (fileName) => {
+    return fs.readFileSync(fileName, 'utf8')
 }
 
-const saveFile = (filename, fileContent) => {
-    const ext = path.extname(filename)
-    const customFileName = `${filename}${ext === '' ? '.txt' : ext}`
-
-    fs.writeFileSync(path.join('src', 'Output', customFileName), fileContent.join('\n'))
+const getOutputPath = () => { 
+    return path.join(path.resolve(__dirname, '../../Output'))
 }
 
-const totalFilesInFolder = (folderPath) => {
-    if(!folderPath){
-        folderPath = path.resolve(__dirname, '../Output')
-    }
+const generateDefaultOutputFilePath = (fileName, fileNumber, fileExtension) => {
+    const rawFileName = path.parse(fileName)
+    const inputFileName = rawFileName ? rawFileName.name : fileName
+    const outputFileName = `${inputFileName}${fileNumber ? fileNumber : ''}.${fileExtension}`
 
+    return path.join(getOutputPath(), outputFileName)
+}
+
+const saveFile = (inputFilePath, fileNumber, fileContent) => {
+    const fileNameWithPath = generateDefaultOutputFilePath(inputFilePath, fileNumber, 'txt')
+
+    fs.writeFileSync(fileNameWithPath, fileContent.join('\n'))
+}
+
+const totalFilesInFolder = (folderPath = getOutputPath()) => {
     const result = fs.readdirSync(folderPath)
 
     return result ? result.length : 1
 }
 
-const getNewFileName = (folderPath = path.resolve(__dirname, '../Output') ) => {
-    return `source_${ totalFilesInFolder(folderPath)}`
-}
-export { readFile, saveFile, getNewFileName }
+export { readFile, saveFile, totalFilesInFolder, generateDefaultOutputFilePath }
