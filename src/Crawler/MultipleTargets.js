@@ -1,4 +1,4 @@
-import { saveFile, totalFilesInFolder } from '../FileUtils/File.js';
+import { saveFile, totalFilesInFolder } from '../FileUtils/File.js'
 import { crawler } from './Crawler.js'
 import { clear, removeSpecialChars } from './ClearLinks.js'
 

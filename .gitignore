@@ -4,3 +4,4 @@ node_modules/
 Output/
 coverage/
 yarn.lock
+package-lock.json

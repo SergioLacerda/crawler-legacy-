@@ -3,18 +3,18 @@ Grab website content with search based on tags
 
 # setup
 ```
-yarn install
+npm install
 ```
 # tests
 ```
-yarn run test
+npm run test
 ```
 
 # Run Grab feature
 ```
-yarn run grabLinks --help
+npm run grabLinks --help
 ```
 # Run download feature
 ```
-yarn run download --help
+npm run download --help
 ```

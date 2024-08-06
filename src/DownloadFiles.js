@@ -1,10 +1,10 @@
-import { startCadencedDownloads, startParalelDownloads } from './Download/Download'
+import yargs from 'yargs/yargs'
+
+import { startCadencedDownloads, startParalelDownloads } from './Download/Download.js'
 import { readFile } from './FileUtils/File.js'
 
-import yargs from 'yargs'
-
-const argv = yargs
-    .usage('example: yarn run download --inputLinks c:\\dev\\crawler\\src\\output\\source.txt --outputFilename sample')
+const argv = yargs(process.argv.slice(2))
+    .usage('example: npm run download --inputLinks c:\\dev\\crawler\\src\\output\\source.txt --outputFilename sample')
     .option('inputLinks', {
         description: 'filepath with one or any links. Example: c:\\dev\\crawler\\src\\output\\source.txt',
         type: 'string',
@@ -19,7 +19,7 @@ const argv = yargs
     })
     .help()
     .alias('help', 'h')
-    .argv;
+    .argv
 
 const start = async () => {
     const { inputLinks, outputFilename, paralel = false } = argv

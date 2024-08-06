@@ -60,5 +60,5 @@ test('Validate real stuff', async () => {
 
     expect(result).toHaveLength(2)
 
-    expect(expect.arrayContaining(result)).toEqual(['<title>\r','<title>Ah Negão!</title>\r'])
+    expect(expect.arrayContaining(result)).toEqual(['<title>','<title>Ah Negão!</title>'])
 })

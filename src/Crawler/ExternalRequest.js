@@ -1,8 +1,11 @@
-import rp from 'request-promise'
+import axios from 'axios'
 
-const getExternalSite = (url) => {
-	return rp(url).then(function(htmlString){ return htmlString.split('\n') })
-				  .catch(function(err){})
-};
+const getExternalSite = (url) => 
+	axios.get(url)
+        .then(response => response.data.split('\n'))
+        .catch(error => {
+            console.error('Error fetching external site:', error)
+            return []
+        })
 
 export { getExternalSite }

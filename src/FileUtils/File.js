@@ -11,7 +11,7 @@ const getOutputPath = () => {
 
 const generateDefaultOutputFilePath = (fileName, fileNumber, fileExtension) => {
     const rawFileName = path.parse(fileName)
-    const inputFileName = rawFileName ? rawFileName.name : fileName
+    const inputFileName = rawFileName.name
     const outputFileName = `${inputFileName}${fileNumber ? fileNumber : ''}.${fileExtension}`
 
     return path.join(getOutputPath(), outputFileName)
